@@ -6,7 +6,7 @@
 
 | Plattform | Vorgehen |
 | --- | --- |
-| Android, Android TV, Windows und Linux | Streamall öffnen und **Portale → Portalpaket installieren** wählen. Dafür ist Streamall 3.4.32 oder neuer nötig. Alternativ die [Portal-ZIP](https://github.com/xionix3/streamall-addon/releases/latest/download/streamall-portals.zip) in der App importieren. |
+| Android, Android TV, Windows und Linux | In Streamall oben beim **S → Portale verwalten → Portalpaket installieren** wählen. In Streamall 3.4.32 findest du den Punkt im Menü **Portale**. Alternativ die [Portal-ZIP](https://github.com/xionix3/streamall-addon/releases/latest/download/streamall-portals.zip) in der App importieren. |
 | Enigma2 (SF8008) | [Add-on-IPK 1.0.6 herunterladen](https://github.com/xionix3/streamall-addon/releases/download/v1.0.6/enigma2-plugin-extensions-streamall-addon_1.0.6_sf8008.ipk), auf den Receiver nach `/tmp/` kopieren, installieren und Enigma2 neu starten. |
 
 ```sh
